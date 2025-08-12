@@ -1,14 +1,14 @@
 # Olá, eu sou Luiz Felipe Santos 👋
 
 <p align="left">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luizfsantoss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="lfsantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Tenho experiência com desenvolvimento em **Python** para automação e sistemas, e também com desenvolvimento web utilizando **HTML, CSS e JavaScript**.
+Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Tenho experiência com desenvolvimento em **Python** para automação e sistemas, e também com desenvolvimento web utilizando **HTML, CSS e JavaScript**, porém aberto para qualquer conhecimento na área.
 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para construir projetos cada vez mais robustos e eficientes. Atualmente, meu foco é aprofundar meus conhecimentos em desenvolvimento Back-End.
 
@@ -31,8 +31,8 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 <br>
 
 ### ✨ Meus Principais Projetos
-- **[OCR-CHAVES](URL_DO_SEU_PROJETO_OCR):** Uma ferramenta em Python que utiliza Reconhecimento Óptico de Caracteres para extrair informações de imagens.
-- **[SistemaSaque](URL_DO_SEU_PROJETO_SAQUE):** Simulação de um sistema de caixa eletrônico desenvolvido em Python.
+- **[OCR-CHAVES](https://github.com/OGUTAO/OCR_CHAVES):** Uma ferramenta em Python que utiliza reconhecimento de caracteres para extração de chaves Windows das etiquetas físicas atraves de arquivos (fotos, scanners, etc..).
+- **[SistemaSaque](https://github.com/OGUTAO/SistemaSaque):** Simulação de um sistema de caixa eletrônico desenvolvido em Python.
 
 <br>
 
