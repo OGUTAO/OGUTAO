@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luizfsantoss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="lfsantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lfsantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -14,8 +14,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 - 🔭 Atualmente trabalhando em projetos pessoais para expandir meu portfólio.
 - 🌱 Estou aprendendo sobre APIs REST e bancos de dados relacionais.
-- 📫 Como me encontrar: [Whatsapp]((61)99914-4748)
-
+- 📫 Como me encontrar: [Whatsapp](https://wa.me/5561999144748)
 <br>
 
 ### 💻 Minhas Principais Tecnologias
