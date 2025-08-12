@@ -14,7 +14,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 - 🔭 Atualmente trabalhando em projetos pessoais para expandir meu portfólio.
 - 🌱 Estou aprendendo sobre APIs REST e bancos de dados relacionais.
-- 📫 Como me encontrar: [LinkedIn](LINK_DO_SEU_LINKEDIN)
+- 📫 Como me encontrar: [Whatsapp]((61)99914-4748)
 
 <br>
 
