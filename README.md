@@ -36,13 +36,13 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 ---
 
-### 🚀 Conheça minha empresa: ByteBros TI
+### 🚀 Conheça minha empresa: ByteBros.TI
 <p>
-  A ByteBros TI é minha iniciativa empreendedora, onde aplico meus conhecimentos para criar soluções tecnológicas para clientes e projetos.
+  A ByteBros.TI é minha iniciativa empreendedora, onde oferecemos suporte técnico especializado e aplico meus conhecimentos para criar soluções tecnológicas para clientes como sistemas e sites.
 </p>
 <p align="left">
   <a href="URL_DO_SITE" target="_blank"><img src="https://img.shields.io/badge/Site_Oficial-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="URL_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bytebros.ti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
