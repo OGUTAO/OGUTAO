@@ -47,7 +47,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 ---
 
-### ✨ Meus Principais Projetos- 
+### ✨ Meus Principais Projetos 
 
 - **[ByteReports](https://github.com/ByteReports):** Um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador como as (ultilidades, funcionamento, temperatura, dentre outras informações).
 - **[PainelMtec](https://github.com/OGUTAO/PainelMtec):** Um sistema completo para gerenciamento de ordens de produção, composto por interface Web para CRUD de pedidos e painel de Visualização em tempo real (para TVs), ideal para acompanhamento na linha de produção.
