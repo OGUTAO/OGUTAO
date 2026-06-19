@@ -49,7 +49,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 ### ✨ Meus Principais Projetos 
 
-- **[ByteReports](https://github.com/ByteReports):** Um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador como as (ultilidades, funcionamento, temperatura, dentre outras informações).
+- **[ByteReports](https://github.com/ByteReports):** Um aplicativo desktop que gera relatórios detalhados sobre os componentes do computador, incluindo desempenho, status de funcionamento, temperatura... A ferramenta foi projetada para ser acessível a usuários leigos e, ao mesmo tempo, completa para profissionais de TI.
 - **[PainelMtec](https://github.com/OGUTAO/PainelMtec):** Um sistema completo para gerenciamento de ordens de produção, composto por interface Web para CRUD de pedidos e painel de Visualização em tempo real (para TVs), ideal para acompanhamento na linha de produção.
 - **[OCR-CHAVES](https://github.com/OGUTAO/OCR_CHAVES):** Uma ferramenta em Python que utiliza reconhecimento de caracteres para extração de chaves Windows das etiquetas físicas atraves de arquivos (fotos, scanners e outros sistemas capazes de capturar os caracteres das etiquetas).
 
